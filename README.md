@@ -1,5 +1,11 @@
 # CIS 5660 HW04 Procedural Buildings
 
+## Reference
+![Modern-High-Desert-Home-Olson-Kundig-Architects-38-1-Kindesign-1](https://github.com/user-attachments/assets/200c019f-ff7b-4ea9-839f-a6eb5e0b34a0)
+https://onekindesign.com/impressive-forest-house-truckee/
+
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
